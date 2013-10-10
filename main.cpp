@@ -1,5 +1,5 @@
 int main()
 {
-    FILE();
+    FILE(filed_d);
     return 0;
 };;
